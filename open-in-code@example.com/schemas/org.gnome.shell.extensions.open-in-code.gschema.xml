@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.open-in-code" path="/org/gnome/shell/extensions/open-in-code/">
+    <key name="command" type="s">
+      <default>'code'</default>
+      <summary>Command to open VS Code</summary>
+      <description>The command to use when opening VS Code with a directory.</description>
+    </key>
+  </schema>
+</schemalist>

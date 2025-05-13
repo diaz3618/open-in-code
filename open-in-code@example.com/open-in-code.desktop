@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Action
+Name=Open in Code
+Icon=visual-studio-code
+ToolbarLabel=Open in Code
+Profiles=profile-zero;
+
+[X-Action-Profile profile-zero]
+MimeTypes=inode/directory;
+Exec=code %f
+Name=Default profile
