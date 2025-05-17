@@ -2,6 +2,6 @@
   "name": "Open in Code",
   "description": "Adds a context menu option to open folders in Visual Studio Code",
   "uuid": "open-in-code@example.com",
-  "shell-version": ["40", "42", "43", "44"],
+  "shell-version": ["40", "42", "43", "44", "45", "46", "47", "48"],
   "version": 1
 }
